@@ -14,10 +14,7 @@
 
 3. (Optional) HelloWorld API extention: Deploy your API using SAM
 
-You have been using AWS console to create and update your API Gateway and Lambda function.
-
-It's time to start using AWS SAM to build and deploy the API.
-Ref: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html
-
-Consider following:
-- use `sam local invoke` to test your function during development
+- You have been using AWS console to create and update your API Gateway and Lambda function.
+- It's time to start using AWS SAM to build and deploy the API.
+- Ref: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html
+- Consider following: use `sam local invoke` to test your function during development
