@@ -3,6 +3,8 @@ kind: ServiceAccount
 metadata:
   name: admin-user
   namespace: kubernetes-dashboard
+  labels:
+    app.kubernetes.io/managed-by: Helm
 
 ---
 
